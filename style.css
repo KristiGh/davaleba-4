@@ -24,6 +24,9 @@ li {
 .building-image {
     height: 600px;
 }
+.small-images {
+    margin-right: 25px;
+}
 .blog {
 	background-color: darkgrey;
 	/*border: 15px dotted red;*/
